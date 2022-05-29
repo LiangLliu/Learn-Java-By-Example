@@ -1,4 +1,4 @@
-package com.lianglliu.java8.advanced.optional;
+package com.lianglliu.java8.advanced.optional.usage;
 
 import com.lianglliu.java8.advanced.optional.model.Car;
 import com.lianglliu.java8.advanced.optional.model.Insurance;
@@ -9,7 +9,7 @@ import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class OptionalUsage {
+public class OptionalPersonUsage {
     public static void main(String[] args) {
 
     }

@@ -26,3 +26,11 @@
 * [Find Stream中查找](stream/basic/FindingUsage.java)
 * [基本类型Stream的使用](stream/basic/NumericStreamsUsage.java)
 * [Java Stream 实战](./stream/practise)
+
+## [Java8高级用法](./advanced)
+
+### [Optional](./advanced/optional)
+
+* [获取对象值空指针处理](./advanced/optional/usage/OptionalPersonUsage.java)
+* [Optional实例](./advanced/optional/usage/OptionalUsage.java)
+* [OptionalInAction](./advanced/optional/usage/OptionalInAction.java)
