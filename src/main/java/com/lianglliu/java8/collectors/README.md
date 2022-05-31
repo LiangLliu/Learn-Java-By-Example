@@ -25,3 +25,5 @@
     * partitioningBy、groupingBy
     * partitioningBy、collectingAndThen
 * [Stream reduce 计算](./usage/ReducingUsage.java)
+* 自定义Collector
+  * [ToListCollector](./customize/ToListCollector.java)
