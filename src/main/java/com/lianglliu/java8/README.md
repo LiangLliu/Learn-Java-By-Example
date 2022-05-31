@@ -27,7 +27,7 @@
 * [基本类型Stream的使用](stream/basic/NumericStreamsUsage.java)
 * [Java Stream 实战](./stream/practise)
 
-## [collectors ：数据聚合](./collectors)
+### [collectors ：数据聚合](./collectors)
 
 * [Group方式和for方式分组区别](./collectors/usage/GroupingTransactions.java)
 * [Stream Summarizing 数据统计、计算](./collectors/usage/SummarizingUsage.java)
@@ -56,6 +56,12 @@
 * [Stream reduce 计算](./collectors/usage/ReducingUsage.java)
 * 自定义Collector
     * [ToListCollector](./collectors/customize/ToListCollector.java)
+
+### [并行处理](./parallel)
+
+* [并行性能对比](./parallel/usage/ParallelProcessing.java)
+* [Fork/Join 样例](./parallel/forkjoin/ForkJoinPoolUsage.java)
+* [自定义 Spliterator 切片 样例](./parallel/spliterator/SpliteratorUsage.java)
 
 ## [Java8高级用法](./advanced)
 
